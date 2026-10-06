@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shopee AI Publicador</string>
+    <string name="accessibility_desc">Publica automaticamente no Shopee Video os anúncios preparados pelo Shopee AI.</string>
+</resources>
